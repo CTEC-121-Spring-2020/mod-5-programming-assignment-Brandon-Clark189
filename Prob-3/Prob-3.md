@@ -15,7 +15,7 @@ Create a function that will generate an estimate for a painting job
     - The cost of the paint
     - The labor charges
     - The total cost of the paint job   
-
+ 
     given the total square footage of the job and the cost per gallon for the paint being used
     
 **Other Specifications**
